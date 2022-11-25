@@ -1,0 +1,20 @@
+{
+  "name": "2b-boilerplate",
+  "version": "1.0.0",
+  "description": "_We're looking at your programming ability. It must not only work, it should be maintainable._",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cryptocompare": "^1.0.0",
+    "csv": "^6.2.2",
+    "express": "^4.18.2",
+    "fs-reverse": "^0.0.3",
+    "node-fetch": "^2.6.6",
+    "probe-stream": "^0.1.0"
+  }
+}
